@@ -1,0 +1,11 @@
+.app-content {
+  width: 100%;
+  padding: 20px 80px;
+  height: calc(100vh - 93px);
+}
+
+.app-container {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(120deg, #fcaca9 40%, #f7f7f5 100%);
+}
